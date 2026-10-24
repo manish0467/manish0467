@@ -3,7 +3,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://manish0467.github.io/portfolio"><img src="https://img.shields.io/badge/%F0%9F%91%BB_portfolio-ghostty_terminal-61afef?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://manish0467.github.io/portfolio">
+    <img src="https://img.shields.io/badge/%F0%9F%91%BB_explore_my_interactive_portfolio-ghostty_terminal-61afef?style=for-the-badge&labelColor=1e1e2e" alt="Explore my interactive portfolio — a Ghostty-style terminal" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manish0467&style=for-the-badge&color=61afef" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/manish0467?style=for-the-badge&color=98c379&label=Followers" alt="Followers" />
 </p>
