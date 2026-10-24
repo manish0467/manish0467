@@ -67,10 +67,10 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,android,csharp,dotnet,ts,js,python,go,java&perline=10&theme=dark" alt="Languages: Rust, Kotlin, Android, C#, .NET, TypeScript, JavaScript, Python, Go, Java" />
+  <img src="https://skillicons.dev/icons?i=rust,kotlin,androidstudio,cs,dotnet,ts,js,python,go,java&perline=10&theme=dark" alt="Languages: Rust, Kotlin, Android Studio, C#, .NET, TypeScript, JavaScript, Python, Go, Java" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,lua,neovim,tmux,git,github,linux,arch&perline=8&theme=dark" alt="Tools: Bash, Lua, Neovim, tmux, Git, GitHub, Linux, Arch" />
+  <img src="https://skillicons.dev/icons?i=bash,lua,neovim,gradle,git,github,linux,arch&perline=8&theme=dark" alt="Tools: Bash, Lua, Neovim, Gradle, Git, GitHub, Linux, Arch" />
 </p>
 
 ## 🐍 Watch the snake eat my contributions
