@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="demo.mp4" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="92%">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manish0467&style=for-the-badge&color=61afef" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/manish0467?style=for-the-badge&color=98c379&label=Followers" alt="Followers" />
 </p>
