@@ -59,7 +59,7 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 |---|---|---|
 | [MovieBox-Tui](https://github.com/manish0467/MovieBox-Tui) (Rust) | [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | **40 commits ahead** — extends the Rust core that also powers MovieBox-Android |
 | [zapfast](https://github.com/manish0467/zapfast) (Rust · egui) | [crmne/zapfast](https://github.com/crmne/zapfast) | tracking & hacking on a native WhatsApp client |
-| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 255-format offline converter |
+| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | **PR [#360](https://github.com/KnifeLemon/Filee/pull/360) merged** — wrote the Linux in-app updater & transactional upgrade mode, shipped in v2.1.0 |
 | [Flow](https://github.com/manish0467/Flow) (Kotlin · Compose) | [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) | YouTube client with local recommendations |
 | [kleeamp](https://github.com/manish0467/kleeamp) (Kotlin) | [cliamp/kleeamp](https://github.com/cliamp/kleeamp) | AI CLI for mobile |
 
@@ -68,6 +68,7 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 - **2026-10-21** — first projects pushed: MovieBox-Android, MovieBox-Tui fork
 - **2026-10-23** — Filee & kleeamp forks joined
 - **2026-10-24** — dotfiles repo rebuilt & published; profile dashboard went live
+- **2026-10-25** — 🎉 first upstream contribution released: **Filee v2.1.0** ships my Linux in-app updater ([#360](https://github.com/KnifeLemon/Filee/pull/360), 2.5k+ lines)
 - The contribution snake below eats this history in real time 🐍
 
 ## 🛠️ Skills & Tools
