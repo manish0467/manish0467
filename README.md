@@ -8,7 +8,11 @@
   </a>
 </p>
 
-![Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip](demo.mp4)
+<p align="center">
+  <a href="https://manish0467.github.io/portfolio/#demo">
+    <img src="demo.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="100%">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manish0467&style=for-the-badge&color=61afef" alt="Profile views" />
