@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://manish0467.github.io/portfolio/#demo">
-    <img src="demo.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="100%">
+    <img src="demo-v2.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="100%">
   </a>
 </p>
 
