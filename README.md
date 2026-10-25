@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="demo.mp4" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="92%">
-</p>
+![Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip](demo.mp4)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manish0467&style=for-the-badge&color=61afef" alt="Profile views" />
