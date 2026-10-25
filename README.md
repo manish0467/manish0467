@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://manish0467.github.io/portfolio/#demo">
-    <img src="https://manish0467.github.io/portfolio/demo.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects and a ghost flyby" width="100%">
+    <img src="https://img.shields.io/badge/%F0%9F%91%BB_watch_the_live_demo-autoplays_in_the_terminal-61afef?style=for-the-badge&labelColor=1e1e2e" alt="Watch the live demo — it autoplays in the terminal" />
   </a>
 </p>
 
