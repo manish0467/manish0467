@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://manish0467.github.io/portfolio/#demo">
-    <img src="demo-v2.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects, ghost and a theme flip" width="100%">
+    <img src="demo-v2.gif" alt="Portfolio demo — the terminal drives itself through whoami, projects and a ghost flyby" width="100%">
   </a>
 </p>
 
@@ -31,19 +31,19 @@ When I'm not coding, I'm reshaping my **Arch Linux + Hyprland (Omarchy)** deskto
 
 <p align="center">
   <a href="https://github.com/manish0467/MovieBox-Android">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manish0467&repo=MovieBox-Android&hide_border=true&bg_color=1e1e2e&title_color=61afef&text_color=c6c6c6&icon_color=98c379" alt="MovieBox-Android" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manish0467&repo=MovieBox-Android&hide_border=true&bg_color=191923&title_color=61afef&text_color=e8e8f0&icon_color=98c379" alt="MovieBox-Android" />
   </a>
   <a href="https://github.com/manish0467/dotfiles">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manish0467&repo=dotfiles&hide_border=true&bg_color=1e1e2e&title_color=61afef&text_color=c6c6c6&icon_color=98c379" alt="dotfiles" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manish0467&repo=dotfiles&hide_border=true&bg_color=191923&title_color=61afef&text_color=e8e8f0&icon_color=98c379" alt="dotfiles" />
   </a>
 </p>
 
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manish0467&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=61afef&icon_color=98c379&text_color=c6c6c6&ring_color=61afef" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish0467&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=61afef&text_color=c6c6c6&langs_count=8" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=manish0467&hide_border=true&background=1E1E2E&ring=61AFEF&currStreakLabel=61AFEF&fire=98C379&sideLabels=C6C6C6&dates=6A6A7A" alt="Streak stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manish0467&show_icons=true&hide_border=true&bg_color=191923&title_color=61afef&icon_color=98c379&text_color=e8e8f0&ring_color=61afef" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish0467&layout=compact&hide_border=true&bg_color=191923&title_color=61afef&text_color=e8e8f0&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=manish0467&hide_border=true&background=191923&ring=61AFEF&currStreakLabel=61AFEF&currStreakNum=E8E8F0&fire=98C379&sideNums=E8E8F0&sideLabels=E8E8F0&dates=9A9AB5" alt="Streak stats" />
 </p>
 
 > ℹ️ The circular badge on the stats card is my **account rank** (S / A / B / C grade) — it upgrades automatically as the account grows.
