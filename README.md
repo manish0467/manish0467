@@ -56,7 +56,6 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 
 | Project | What it is | Stars |
 |---|---|---|
-| [MovieBox-Android](https://github.com/manish0467/MovieBox-Android) | Native Android movie/TV app (Kotlin · Compose · Media3) on a shared Rust core | ![](https://img.shields.io/github/stars/manish0467/MovieBox-Android?style=flat-square&color=98c379) |
 | [dotfiles](https://github.com/manish0467/dotfiles) | Full Omarchy/Hyprland desktop config — 18 GNU Stow packages (Lua · Shell) | ![](https://img.shields.io/github/stars/manish0467/dotfiles?style=flat-square&color=98c379) |
 
 **🌱 Contributing & building on** — forks with my own branches of upstream work:
