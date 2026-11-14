@@ -62,7 +62,6 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 
 | My fork | Upstream | My work |
 |---|---|---|
-| [MovieBox-Tui](https://github.com/manish0467/MovieBox-Tui) (Rust) | [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | **40 commits ahead** — extends the Rust core that also powers MovieBox-Android |
 | [zapfast](https://github.com/manish0467/zapfast) (Rust · egui) | [crmne/zapfast](https://github.com/crmne/zapfast) | tracking & hacking on a native WhatsApp client |
 | [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | **PR [#360](https://github.com/KnifeLemon/Filee/pull/360) merged** — wrote the Linux in-app updater & transactional upgrade mode, shipped in v2.1.0 |
 | [Flow](https://github.com/manish0467/Flow) (Kotlin · Compose) | [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) | YouTube client with local recommendations |
