@@ -30,9 +30,6 @@ When I'm not coding, I'm reshaping my **Arch Linux + Hyprland (Omarchy)** deskto
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/manish0467/MovieBox-Android">
-    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=manish0467&repo=MovieBox-Android&hide_border=true&bg_color=191923&title_color=61afef&text_color=e8e8f0&icon_color=98c379" alt="MovieBox-Android" />
-  </a>
   <a href="https://github.com/manish0467/dotfiles">
     <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=manish0467&repo=dotfiles&hide_border=true&bg_color=191923&title_color=61afef&text_color=e8e8f0&icon_color=98c379" alt="dotfiles" />
   </a>
