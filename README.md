@@ -54,15 +54,24 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 | Project | What it is | Stars |
 |---|---|---|
 | [dotfiles](https://github.com/manish0467/dotfiles) | Full Omarchy/Hyprland desktop config — 18 GNU Stow packages (Lua · Shell) | ![](https://img.shields.io/github/stars/manish0467/dotfiles?style=flat-square&color=98c379) |
+| [omarchy-arch-updates](https://github.com/manish0467/omarchy-arch-updates) | Omarchy shell widget for pending pacman/AUR updates & Arch Linux news alerts | ![](https://img.shields.io/github/stars/manish0467/omarchy-arch-updates?style=flat-square&color=98c379) |
+| [omarchy-btrfs-snapshots](https://github.com/manish0467/omarchy-btrfs-snapshots) | Btrfs/Snapper snapshot manager widget & panel with rollback safety | ![](https://img.shields.io/github/stars/manish0467/omarchy-btrfs-snapshots?style=flat-square&color=98c379) |
+| [omarchy-thermal-power](https://github.com/manish0467/omarchy-thermal-power) | System thermal metrics, throttling detection, battery & power-profile widget | ![](https://img.shields.io/github/stars/manish0467/omarchy-thermal-power?style=flat-square&color=98c379) |
+| [omarchy-backup-freshness](https://github.com/manish0467/omarchy-backup-freshness) | Dotfiles & backup freshness indicator with interactive TUI diff inspector | ![](https://img.shields.io/github/stars/manish0467/omarchy-backup-freshness?style=flat-square&color=98c379) |
 
 **🌱 Contributing & building on** — forks with my own branches of upstream work:
 
 | My fork | Upstream | My work |
 |---|---|---|
+| [BitChord](https://github.com/manish0467/BitChord) (Kotlin) | [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) | **Smart Offline** engine — Spotify-inspired offline rotation ranking with 4-signal decay & 72 unit tests |
+| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | **PR [#360](https://github.com/KnifeLemon/Filee/pull/360) merged** (Linux updater in v2.1.0); built native Yazi file manager plugin |
+| [flea](https://github.com/manish0467/flea) (Rust) | [thisisgm/flea](https://github.com/thisisgm/flea) | Clickable breadcrumb navigation ([#354](https://github.com/thisisgm/flea/issues/354)), Shift range selection ([#433](https://github.com/thisisgm/flea/issues/433)), grid row-wrapping ([#434](https://github.com/thisisgm/flea/issues/434)) |
+| [MovieBox-Tui](https://github.com/manish0467/MovieBox-Tui) (Rust) | [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | Extends Rust core (v0.1.32) — ToonPlay series player integration & flushed segment progress tracking |
+| [kleeamp](https://github.com/manish0467/kleeamp) (Kotlin) | [cliamp/kleeamp](https://github.com/cliamp/kleeamp) | Android podcast playback — added configurable skip controls |
+| [pocket-dots](https://github.com/manish0467/pocket-dots) (Shell) | [diegoMalagrida/pocket-dots](https://github.com/diegoMalagrida/pocket-dots) | Installer safety check requiring explicit user consent before modifying Omarchy Hyprland configurations |
+| [PKGBUILDS](https://github.com/manish0467/PKGBUILDS) (PKGBUILD) | [Felitendo/PKGBUILDS](https://github.com/Felitendo/PKGBUILDS) | Arch packaging: desktop shortcuts, GNOME extension & Hyprland rules for Filee |
 | [zapfast](https://github.com/manish0467/zapfast) (Rust · egui) | [crmne/zapfast](https://github.com/crmne/zapfast) | tracking & hacking on a native WhatsApp client |
-| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | **PR [#360](https://github.com/KnifeLemon/Filee/pull/360) merged** — wrote the Linux in-app updater & transactional upgrade mode, shipped in v2.1.0 |
 | [Flow](https://github.com/manish0467/Flow) (Kotlin · Compose) | [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) | YouTube client with local recommendations |
-| [kleeamp](https://github.com/manish0467/kleeamp) (Kotlin) | [cliamp/kleeamp](https://github.com/cliamp/kleeamp) | AI CLI for mobile |
 
 **📜 History** — this account is a fresh start (October 2026):
 
@@ -70,6 +79,14 @@ Everything I maintain is open source. I also keep working forks of projects I bu
 - **2026-10-23** — Filee & kleeamp forks joined
 - **2026-10-24** — dotfiles repo rebuilt & published; profile dashboard went live
 - **2026-10-25** — 🎉 first upstream contribution released: **Filee v2.1.0** ships my Linux in-app updater ([#360](https://github.com/KnifeLemon/Filee/pull/360), 2.5k+ lines)
+- **2026-10-25** — kleeamp: added configurable podcast skip controls for Android
+- **2026-11-08** — flea: contributed clickable breadcrumb path navigation ([#354](https://github.com/thisisgm/flea/issues/354)), row-wrapping grid navigation ([#434](https://github.com/thisisgm/flea/issues/434)), and horizontal range selection ([#433](https://github.com/thisisgm/flea/issues/433))
+- **2026-11-09** — **omarchy-arch-updates v0.1.1** published: desktop bar widget & panel for pacman/AUR updates and Arch Linux news alerts
+- **2026-11-11** — released **omarchy-btrfs-snapshots** (one-click snapshot manager) & **omarchy-thermal-power** (system thermal & power widget)
+- **2026-11-13** — PKGBUILDS: added desktop & Hyprland integration for Filee Arch packaging
+- **2026-11-14** — Filee: built native Yazi file manager plugin; pocket-dots: safe installer consent check
+- **2026-11-16** — BitChord: designed and built **Smart Offline** engine (personalized offline rotation with 72 unit tests)
+- **2026-11-18** — MovieBox-Android v0.31.2 & MovieBox-Tui v0.1.32: ToonPlay series playback and segment download engine fixes
 - The contribution snake below eats this history in real time 🐍
 
 ## 🛠️ Skills & Tools
