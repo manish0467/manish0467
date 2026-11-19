@@ -31,25 +31,21 @@ The rest of my time goes into my Arch + Hyprland desktop. The window manager, ba
 
 ## Building on other people's work
 
-Forks with my own branches of upstream work.
+Merged upstream pull requests.
 
-| My fork | Upstream | My work |
+| My fork | Upstream | Merged PRs |
 |---|---|---|
-| [BitChord](https://github.com/manish0467/BitChord) (Kotlin) | [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) | Smart Offline engine — Spotify-inspired offline rotation ranking with 4-signal decay and 72 unit tests |
-| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | PR [#360](https://github.com/KnifeLemon/Filee/pull/360) merged — Linux updater in v2.1.0; native Yazi file manager plugin |
-| [flea](https://github.com/manish0467/flea) (Rust) | [thisisgm/flea](https://github.com/thisisgm/flea) | Clickable breadcrumb navigation ([#354](https://github.com/thisisgm/flea/issues/354)), Shift range selection ([#433](https://github.com/thisisgm/flea/issues/433)), grid row-wrapping ([#434](https://github.com/thisisgm/flea/issues/434)) |
-| [MovieBox-Tui](https://github.com/manish0467/MovieBox-Tui) (Rust) | [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | Extends Rust core (v0.1.32) — ToonPlay series player integration and flushed segment progress tracking |
-| [kleeamp](https://github.com/manish0467/kleeamp) (Kotlin) | [cliamp/kleeamp](https://github.com/cliamp/kleeamp) | Android podcast playback — added configurable skip controls |
-| [pocket-dots](https://github.com/manish0467/pocket-dots) (Shell) | [diegoMalagrida/pocket-dots](https://github.com/diegoMalagrida/pocket-dots) | Installer safety check requiring explicit user consent before modifying Omarchy Hyprland configurations |
-| [PKGBUILDS](https://github.com/manish0467/PKGBUILDS) (PKGBUILD) | [Felitendo/PKGBUILDS](https://github.com/Felitendo/PKGBUILDS) | Arch packaging: desktop shortcuts, GNOME extension and Hyprland rules for Filee |
-| [zapfast](https://github.com/manish0467/zapfast) (Rust · egui) | [crmne/zapfast](https://github.com/crmne/zapfast) | Tracking and hacking on a native WhatsApp client |
-| [Flow](https://github.com/manish0467/Flow) (Kotlin · Compose) | [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) | YouTube client with local recommendations |
+| [Filee](https://github.com/manish0467/Filee) (C# · .NET) | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | [#360](https://github.com/KnifeLemon/Filee/pull/360) in-app updater and transactional installer (v2.1.0) · [#1273](https://github.com/KnifeLemon/Filee/pull/1273) Hyprland window rules · [#1317](https://github.com/KnifeLemon/Filee/pull/1317) Arch runtime docs · [#1486](https://github.com/KnifeLemon/Filee/pull/1486) Yazi plugin |
+| [kleeamp](https://github.com/manish0467/kleeamp) (Kotlin) | [cliamp/kleeamp](https://github.com/cliamp/kleeamp) | [#29](https://github.com/cliamp/kleeamp/pull/29) configurable podcast skip controls |
+| [pocket-dots](https://github.com/manish0467/pocket-dots) (Shell) | [diegoMalagrida/pocket-dots](https://github.com/diegoMalagrida/pocket-dots) | [#3](https://github.com/diegoMalagrida/pocket-dots/pull/3) installer consent check before modifying Omarchy Hyprland config |
+| [PKGBUILDS](https://github.com/manish0467/PKGBUILDS) (PKGBUILD) | [Felitendo/PKGBUILDS](https://github.com/Felitendo/PKGBUILDS) | [#53](https://github.com/Felitendo/PKGBUILDS/pull/53) filee-bin GUI symlink, GNOME extension and Hyprland rules |
+| [flea](https://github.com/manish0467/flea) (Rust) | [thisisgm/flea](https://github.com/thisisgm/flea) | [#447](https://github.com/thisisgm/flea/pull/447) grid row-wrapping navigation |
 
 ## Recent
 
 I've been writing widgets for the Omarchy shell — pending pacman/AUR updates, Btrfs snapshots, thermal and power profiles, backup freshness. Each one fixes something I got tired of checking by hand.
 
-Upstream, that's a Linux in-app updater in Filee, breadcrumb navigation and range selection in flea, and an offline rotation engine for BitChord.
+Upstream, that's a Linux in-app updater, Hyprland window rules, Arch runtime docs and a Yazi plugin in Filee; podcast skip controls in kleeamp; an installer consent check in pocket-dots; and Arch packaging for Filee in PKGBUILDS.
 
 ## Tools
 
